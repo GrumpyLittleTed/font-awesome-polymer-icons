@@ -12,5 +12,5 @@
     "iron-iconset-svg": "PolymerElements/iron-iconset-svg#^1.0.0",
     "polymer": "Polymer/polymer#^1.2.0"
   },
-  "license": "MIT",
+  "license": "MIT"
 }
